@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashpreet72112" target="blank"><img src="https://img.shields.io/twitter/follow/ashpreet72112?logo=twitter&style=for-the-badge" alt="ashpreet72112" /></a> </p>
 
-- 🔭 I’m currently working at [Maven Foundation](https://www.queueprotocol.com/)
+- 🔭 I’m currently working at [EMOTORAD](https://www.emotorad.com/)
 
 - 🌱 I’m currently learning **Smart Contract Auditing and Rust**
 
